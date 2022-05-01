@@ -3,7 +3,7 @@
 Ce projet est réalisé en cours de Web Design avec M. Amin Zammouri en première année de cycle master en majeure numérique à l'EPF. 
 L'objectif du projet est de créer un site web fonctionnel en utilisant le HTML, le CSS et le Javascript.
 
-J'ai décidé de créer un générateur d'accords pour piano car j'ai commencé le piano en autodidacte depuis janvier et je n'ai pas réussi à trouver ce genre de ressource sur le web. Le but de ce site est de s'échauffer avant de jouer en reproduisant les accords qui vont apparaître sur le clavier et la partition.
+J'ai décidé de créer un générateur d'accords pour piano car j'ai commencé le piano en autodidacte depuis janvier et je n'ai pas réussi à trouver ce genre de ressource sur le web. Le but de ce site est de s'échauffer avant de jouer en reproduisant les accords qui vont apparaître sur le clavier et la partition. Il contient aussi mon portfolio en seconde partie.
 
 ## Démarrage
 
